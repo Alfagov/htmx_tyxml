@@ -1,0 +1,3 @@
+(library
+ (name htmx_tyxml)
+ (libraries tyxml))

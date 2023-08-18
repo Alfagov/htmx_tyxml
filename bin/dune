@@ -1,0 +1,4 @@
+(executable
+ (public_name htmx_tyxml)
+ (name main)
+ (libraries htmx_tyxml))

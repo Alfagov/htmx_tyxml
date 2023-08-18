@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/htmx_tyxml/META"
+  "_build/install/default/lib/htmx_tyxml/dune-package"
+  "_build/install/default/lib/htmx_tyxml/opam"
+]
+bin: [
+  "_build/install/default/bin/htmx_tyxml"
+]
